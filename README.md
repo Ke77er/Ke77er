@@ -6,11 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front End ###################################
-  </p>
-  
-  <p align="center">
-    #####################
+    Sou Desenvolvedor Front End com foco em Vue JS.
   </p>
   
 </div>
