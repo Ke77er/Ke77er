@@ -34,3 +34,7 @@
   <a href="https://www.linkedin.com/in/jonatankeller/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:Jonatan.keller@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+
+
+NADA AQUI, APENAS PROJETOS PRIVADOS
